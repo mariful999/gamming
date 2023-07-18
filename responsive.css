@@ -1,0 +1,12 @@
+/* mobil responsive */
+@media screen and (max-width: 576px) {
+    .nav-section {
+        flex-direction: column;  
+    }
+    .nav-button {
+        flex-direction: column;
+    }
+    .nav-button a {
+        margin-top: 35px;
+    }
+}
